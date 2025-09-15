@@ -1,6 +1,8 @@
 # CylceML-AC
 The implementation of CylceML-AC for intelligent fault diagnosis with limited data
 
+![image](https://github.com/jie3040/CycleML-AC/blob/main/figures/figure.png)
+
 # Dataset
 This example is based on the Case Western Reserve University bearing dataset
 
